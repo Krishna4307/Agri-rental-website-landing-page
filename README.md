@@ -3,3 +3,5 @@ A beginner-friendly HTML and CSS project that simulates an agricultural equipmen
 ## Technologies used
 HTML 
 CSS
+## Live Demo
+https://krishna4307.github.io/Agri-rental-website-landing-page/
